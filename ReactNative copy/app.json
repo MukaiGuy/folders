@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Alpha_Nait_UI",
+    "slug": "InNait_UI_Prototype",
+    "privacy": "public",
+    "sdkVersion": "37.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "UI Prototype built on, Argon React Native, based on Argon Design System. sourced from Creative Tim and Edited by Roger Mukai"
+  }
+}
